@@ -70,22 +70,3 @@ opcao = gets.chomp.to_i
 if opcao == 2
     puts mensagens['bye']
 end
-
-  
-
-
-
-
-   
-
-
-
-
-
-
-      
-    
-
-
-
-
