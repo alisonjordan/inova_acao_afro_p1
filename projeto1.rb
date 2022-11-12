@@ -10,7 +10,7 @@ produtos = { "mouse" => 50.00, "headset" => 200.00, "teclado" => 100.00 }
 
 #variável do subtotal
 subtotal = 0.00
-#testetremotoeo
+
 #Início do programa
 puts mensagens['menu_principal']
 opcao = gets.chomp.to_i
