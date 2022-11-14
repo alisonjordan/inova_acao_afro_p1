@@ -2,5 +2,5 @@
 Primeiro projeto do programa Inova Ação Afro
 
 Alunos:
-Alison Jordan
-Marco Aurélio
+Alison Jordan e
+Marco Picanço
